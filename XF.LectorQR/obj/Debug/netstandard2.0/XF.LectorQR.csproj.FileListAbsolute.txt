@@ -1,0 +1,12 @@
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\bin\Debug\netstandard2.0\XF.LectorQR.deps.json
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\bin\Debug\netstandard2.0\XF.LectorQR.dll
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\bin\Debug\netstandard2.0\XF.LectorQR.pdb
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XF.LectorQR.csproj.CoreCompileInputs.cache
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XF.LectorQR.AssemblyInfoInputs.cache
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XF.LectorQR.AssemblyInfo.cs
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XF.LectorQR.dll
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XF.LectorQR.pdb
+D:\GitHub\XF.LectorQR\XF.LectorQR\XF.LectorQR\obj\Debug\netstandard2.0\XF.LectorQR.csprojAssemblyReference.cache
